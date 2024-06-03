@@ -1,0 +1,280 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: #bce8d6;
+    color: #333;
+}
+
+#site-title {
+    font-family: 'Pacifico', cursive;
+    color: #008080;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #7eb1e2;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.heritage-section {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.mana-section {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.mana-section h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+.mana-section h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 3em;
+    margin: 0;
+}
+
+.mana-section .italic {
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.history-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.text {
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.text h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.text p {
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+.text a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 2px solid #007bff;
+}
+
+.text a:hover {
+    text-decoration: underline;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav-links a:hover {
+    color: #ffff99;
+}
+
+.banner {
+    text-align: center;
+    padding: 20px;
+}
+
+.banner-img {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    padding: 20px;
+}
+
+.section-title {
+    color: #007acc;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.island-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.island-card {
+    background-color: #e0ffff;
+    border: 1px solid #007acc;
+    padding: 15px;
+    margin: 10px;
+    flex: 0 1 30%;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.footer-content {
+    background-color: #007acc;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer-content a {
+    color: #ffff99;
+}
+
+.footer-content a:hover {
+    color: #ffcc00;
+}
+
+.map-container, .video-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: #f0f8ff;
+    color: #333;
+}
+
+#site-title {
+    font-family: 'Lobster', cursive;
+    color: #000080; /* Couleur bleu marine */
+    text-align: center;
+}
+
+.navbar {
+    background-color: #007acc;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav-links a:hover {
+    color: #ffff99;
+}
+
+.banner {
+    text-align: center;
+    padding: 20px;
+}
+
+.banner-img {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    padding: 20px;
+}
+
+.section-title {
+    color: #007acc;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.island-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.island-card {
+    background-color: #e0ffff;
+    border: 1px solid #007acc;
+    padding: 15px;
+    margin: 10px;
+    flex: 0 1 30%;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.footer-content {
+    background-color: #bce8d6
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer-content a {
+    color: #ffff99;
+}
+
+.footer-content a:hover {
+    color: #ffcc00;
+}
+
+.separator {
+    height: 8px; 
+    background: linear-gradient(to right, #007bff, #00c6ff); 
+    border: none;
+    margin: 40px 0; 
+}
+
+.map-container, .video-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
